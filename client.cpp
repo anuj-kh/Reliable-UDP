@@ -1,5 +1,5 @@
 /*  A Boodhayana S Vishwamithra (2017B4A70761H)
-Anuj Kharbada (2017B4A71508H)
+Anuj Kharbanda (2017B4A71508H)
 Giridhar Bajpai (2017B4A71451H)
 Vinay Agarwal (2017B3A70661H)
 Soumil Agarwal (2017B4A71606H)
